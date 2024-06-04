@@ -1,2 +1,3 @@
-# CNN-Cats_-_Dogs_Image_classification
-Cats &amp; Dogs Image classification using CNN
+# CNN Cats and Dogs Image classification
+
+Convolutional Neural Network to Classify Photographs of Dogs and Cats
